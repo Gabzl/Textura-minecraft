@@ -1,0 +1,11 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:ui": {
+    "buttons": {
+      "help_button": {
+        "position": [0.5, 0.5],
+        "visible": false
+      }
+    }
+  }
+}
